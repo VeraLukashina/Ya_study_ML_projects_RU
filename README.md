@@ -10,3 +10,10 @@ The goal of the project is to develop a model capable of assessing the risk of a
 This project aims to forecast the hourly number of taxi orders at airports based on historical order data analysis.
 
 The goal of the project is to develop a model capable of predicting the number of taxi orders for the next hour.
+
+
+# Toxic Comment Detection
+
+This project aims to detect toxic comments in user-generated edits to product descriptions. 
+
+The goal of the project is to develop a model capable of classifying comments as toxic or neutral, achieving an F1 score of at least 0.75.
