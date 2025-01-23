@@ -19,6 +19,13 @@ This project aims to forecast the hourly number of taxi orders at airports based
 The goal of the project is to develop a model capable of predicting the number of taxi orders for the next hour.
 
 
+# Reference Photo Search by Description
+
+This project aims to create a service for searching reference photos based on textual descriptions.
+
+The goal of the project is to design and demonstrate a Proof of Concept (PoC) for this functionality.
+
+
 # Toxic Comment Detection
 
 This project aims to detect toxic comments in user-generated edits to product descriptions. 
