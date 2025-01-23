@@ -1,3 +1,10 @@
+# Age Prediction Using Computer Vision
+
+This project aims to develop a computer vision system to estimate the approximate age of customers based on their photos taken in a retail environment. 
+
+The goal of the project is to build and train a neural network model that reliably predicts customer age.
+
+
 # Carsharing Vehicle Accident Risk Assessment System
 
 This project aims to explore the feasibility of predicting car accidents based on historical data from a specific region. The client is a carsharing company.
